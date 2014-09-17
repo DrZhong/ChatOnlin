@@ -1,0 +1,4 @@
+D:\搜狗下载\LiveChatStarterKit13\LCSK.Core\bin\Debug\LCSK.Core.dll
+D:\搜狗下载\LiveChatStarterKit13\LCSK.Core\bin\Debug\LCSK.Core.pdb
+D:\搜狗下载\LiveChatStarterKit13\LCSK.Core\obj\Debug\LCSK.Core.dll
+D:\搜狗下载\LiveChatStarterKit13\LCSK.Core\obj\Debug\LCSK.Core.pdb

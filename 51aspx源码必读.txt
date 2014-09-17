@@ -1,0 +1,51 @@
+LiveChat Starter Kit v1.3源码
+
+LCSK (LiveChat Starter Kit)是一个免费，开源的在线聊天/在线帮助的应用，可以给浏览你网站的用户
+提供帮助。
+
+快速安装：
+
+1. 创建一个虚拟目录或者一个新的站点，在IIS中(i.e. LCSK, LiveChat, etc)
+
+2. 将ASP.NET MVC 3应用放在虚拟目录下
+
+3. 编辑web.config文件，填写你的smtp信息到System.Net/MailSettings
+
+4. 创建一个SQL数据库
+
+5. 用这个URL地址安装http://你的域名/LCSK/Install
+
+6. 运行ClickOnce  operator console，点击“配置”设置Web Service的URL地址（例如http://yourdomain.com/LCSK/LCSKServices/OpServices.asmx)）
+
+7. 用管理员帐号登录第五步设置的帐号，你可以添加更多的客服
+
+Quick Customization（快速定制界面）这部分很简单不难看懂
+
+1. Check the Views/Home/Index for sample on how to add chat button to your pages. The images can be found on the /content/LCSK/online.jpg | offline.jpg
+
+2. You can easily change the Views/_Layout.cshtml to include your logo and header and change the CSS and design of the chat session in /Views/LiveChat/Chat.cshtml | Session.cshtml | MailSent.cshtml.
+
+作者:LiveChat 
+下载地址：http://www.51aspx.com/CV/LiveChatStarterKit13
+
+
+                ╭═══════════════╮
+                ║        Asp.net源码网         ║
+  ╭══════┤     http://www.51aspx.com    ├══════╮
+  ║            ║ 论坛:http://bbs.51aspx.com   ║            ║
+  ║            ╰═══════════════╯            ║
+　║                                                          ║
+　║51aspx声明：                                              ║
+  ║   1) 本站不保证所提供软件或程序的完整性和安全性。        ║
+  ║   2) 转载本站提供的资源请勿删除本说明文件。              ║
+  ║   3) 本站提供的程序均为网上搜集，如果该代码涉及或侵害到您║
+  ║      的版权请立即写信通知我们。                          ║
+  ║   4) 本站提供代码只可供研究使用，请在下载24小时内删除,   ║
+  ║      切勿用于商业用途，由此引起一切后果与本站无关。      ║
+  ║   5) 如果源码有升级或修补，我们会在本站进行，恕不另行通知║
+　║                                                          ║
+  ║           本站专注于Asp.net源码下载                      ║
+  ║           联系方式 : support@51aspx.com                  ║
+  ║    ╭───────────────────────╮    ║
+  ╰══┤  Asp.net源码网 http://www.51aspx.com         ├══╯
+        ╰───────────────────────╯

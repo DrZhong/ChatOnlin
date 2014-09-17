@@ -1,0 +1,9 @@
+D:\搜狗下载\LiveChatStarterKit13\LCSK.Services\bin\Debug\LCSK.Services.dll
+D:\搜狗下载\LiveChatStarterKit13\LCSK.Services\bin\Debug\LCSK.Services.pdb
+D:\搜狗下载\LiveChatStarterKit13\LCSK.Services\bin\Debug\LCSK.Core.dll
+D:\搜狗下载\LiveChatStarterKit13\LCSK.Services\bin\Debug\LCSK.Providers.dll
+D:\搜狗下载\LiveChatStarterKit13\LCSK.Services\bin\Debug\LCSK.Core.pdb
+D:\搜狗下载\LiveChatStarterKit13\LCSK.Services\bin\Debug\LCSK.Providers.pdb
+D:\搜狗下载\LiveChatStarterKit13\LCSK.Services\obj\Debug\LCSK.Services.csprojResolveAssemblyReference.cache
+D:\搜狗下载\LiveChatStarterKit13\LCSK.Services\obj\Debug\LCSK.Services.dll
+D:\搜狗下载\LiveChatStarterKit13\LCSK.Services\obj\Debug\LCSK.Services.pdb
